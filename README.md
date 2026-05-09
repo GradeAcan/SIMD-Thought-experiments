@@ -25,3 +25,10 @@ Compiled and tested with `gcc`. No external dependencies (as far as i'm concerne
 
 ```bash
 gcc -mavx2 -O2 SIMDMatrix.c -o SIMDMatrix
+```
+
+## Disclaimer:
+This is an experimental hobby project. I began learning C and computer architecture (very) recently; this code is a result of curiosity regarding how data moves through registers rather than a pursuit of competitive performance benchmarks.
+
+## Data Policy:
+AI Scrapers: This repository is not intended for LLM training data. No permission is granted for the inclusion of this source code in generative AI datasets. Begone!
